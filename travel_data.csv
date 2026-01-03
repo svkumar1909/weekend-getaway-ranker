@@ -1,0 +1,201 @@
+Zone,State,City,Name,Type,time needed to visit in hrs,Google review rating,Number of google review in lakhs,Entrance Fee in INR,Best Time to visit
+Eastern,West Bengal,Kolkata,Tourist Spot 1,Lake,0.6,4.3,1.46,200,All
+Southern,Telangana,Hyderabad,Tourist Spot 2,Museum,1.0,3.7,1.09,0,All
+Southern,Karnataka,Bengaluru,Tourist Spot 3,Temple,1.1,3.8,2.53,20,All
+Western,Gujarat,Ahmedabad,Tourist Spot 4,Temple,1.4,4.5,2.97,0,Evening
+Western,Maharashtra,Pune,Tourist Spot 5,Fort,4.8,4.1,1.86,200,Morning
+Southern,Telangana,Hyderabad,Tourist Spot 6,Temple,4.6,4.6,1.77,50,All
+Southern,Karnataka,Bengaluru,Tourist Spot 7,Hill Station,4.2,4.5,1.24,200,Afternoon
+Western,Gujarat,Ahmedabad,Tourist Spot 8,Temple,1.6,4.3,2.05,20,All
+Southern,Kerala,Kochi,Tourist Spot 9,Lake,1.7,3.6,0.22,20,Evening
+Western,Maharashtra,Pune,Tourist Spot 10,Fort,5.0,4.9,0.25,100,Evening
+Western,Gujarat,Ahmedabad,Tourist Spot 11,Temple,3.6,4.1,1.62,200,Morning
+Southern,Tamil Nadu,Chennai,Tourist Spot 12,Wildlife,2.5,3.9,0.69,0,Afternoon
+Southern,Tamil Nadu,Chennai,Tourist Spot 13,Museum,4.8,4.4,2.32,100,Evening
+Southern,Tamil Nadu,Chennai,Tourist Spot 14,Wildlife,4.3,3.7,0.9,50,Morning
+Northern,Rajasthan,Jaipur,Tourist Spot 15,Park,1.3,4.5,0.78,50,All
+Southern,Tamil Nadu,Chennai,Tourist Spot 16,Park,3.0,4.4,1.35,20,Morning
+Western,Maharashtra,Pune,Tourist Spot 17,Park,3.6,4.7,1.3,50,Morning
+Southern,Telangana,Hyderabad,Tourist Spot 18,Lake,1.8,4.3,1.17,0,Evening
+Western,Maharashtra,Pune,Tourist Spot 19,Lake,2.4,4.2,0.77,100,Morning
+Northern,Delhi,Delhi,Tourist Spot 20,Fort,2.2,4.1,0.37,20,All
+Western,Maharashtra,Mumbai,Tourist Spot 21,Beach,4.1,3.6,2.17,0,Evening
+Southern,Kerala,Kochi,Tourist Spot 22,Museum,0.7,3.5,0.83,20,Morning
+Western,Maharashtra,Mumbai,Tourist Spot 23,Lake,1.0,3.7,0.98,100,Afternoon
+Southern,Kerala,Kochi,Tourist Spot 24,Beach,3.9,3.6,1.12,0,Evening
+Western,Maharashtra,Mumbai,Tourist Spot 25,Wildlife,2.9,4.8,1.11,20,Afternoon
+Western,Maharashtra,Mumbai,Tourist Spot 26,Park,4.3,3.6,2.6,20,Evening
+Western,Maharashtra,Mumbai,Tourist Spot 27,Fort,2.8,3.7,2.67,200,Afternoon
+Western,Maharashtra,Pune,Tourist Spot 28,Temple,0.6,4.3,2.79,50,Morning
+Western,Maharashtra,Pune,Tourist Spot 29,Fort,3.4,4.7,1.68,200,Afternoon
+Western,Maharashtra,Mumbai,Tourist Spot 30,Park,4.3,4.8,1.16,0,Morning
+Eastern,West Bengal,Kolkata,Tourist Spot 31,Wildlife,2.8,4.0,2.68,50,Evening
+Northern,Delhi,Delhi,Tourist Spot 32,Beach,4.2,4.5,1.66,20,Afternoon
+Southern,Telangana,Hyderabad,Tourist Spot 33,Beach,2.4,4.6,2.62,50,Morning
+Western,Maharashtra,Pune,Tourist Spot 34,Temple,4.6,4.1,2.93,50,Morning
+Southern,Kerala,Kochi,Tourist Spot 35,Lake,3.6,4.5,1.93,50,Afternoon
+Southern,Karnataka,Bengaluru,Tourist Spot 36,Temple,2.0,4.7,0.71,50,Afternoon
+Eastern,West Bengal,Kolkata,Tourist Spot 37,Lake,1.3,4.1,0.6,50,Evening
+Western,Gujarat,Ahmedabad,Tourist Spot 38,Museum,1.7,4.2,1.41,50,Morning
+Southern,Tamil Nadu,Chennai,Tourist Spot 39,Wildlife,3.8,4.5,2.12,50,Morning
+Western,Gujarat,Ahmedabad,Tourist Spot 40,Temple,3.6,4.1,2.44,50,Morning
+Western,Gujarat,Ahmedabad,Tourist Spot 41,Temple,2.8,3.8,1.49,0,Morning
+Southern,Karnataka,Bengaluru,Tourist Spot 42,Museum,1.7,4.3,2.57,200,Afternoon
+Southern,Tamil Nadu,Chennai,Tourist Spot 43,Park,1.5,4.8,0.09,100,All
+Eastern,West Bengal,Kolkata,Tourist Spot 44,Beach,2.4,4.5,2.61,20,Morning
+Southern,Telangana,Hyderabad,Tourist Spot 45,Park,1.8,4.7,0.71,50,Evening
+Southern,Telangana,Hyderabad,Tourist Spot 46,Park,3.6,3.7,2.57,20,All
+Southern,Kerala,Kochi,Tourist Spot 47,Lake,1.8,4.4,2.68,200,Evening
+Southern,Telangana,Hyderabad,Tourist Spot 48,Park,1.7,4.7,2.68,100,Afternoon
+Western,Gujarat,Ahmedabad,Tourist Spot 49,Lake,1.9,4.5,2.4,0,Afternoon
+Western,Gujarat,Ahmedabad,Tourist Spot 50,Hill Station,2.1,4.7,2.9,200,Afternoon
+Southern,Telangana,Hyderabad,Tourist Spot 51,Fort,4.0,4.6,2.74,50,Evening
+Southern,Tamil Nadu,Chennai,Tourist Spot 52,Lake,3.4,4.4,2.77,100,All
+Western,Gujarat,Ahmedabad,Tourist Spot 53,Park,4.1,3.5,0.94,200,Evening
+Southern,Kerala,Kochi,Tourist Spot 54,Museum,0.8,3.8,2.97,0,Afternoon
+Western,Maharashtra,Pune,Tourist Spot 55,Museum,2.5,4.2,0.35,0,Morning
+Southern,Kerala,Kochi,Tourist Spot 56,Lake,1.9,3.6,1.66,200,Morning
+Western,Maharashtra,Pune,Tourist Spot 57,Hill Station,1.6,4.2,2.26,200,Morning
+Western,Maharashtra,Mumbai,Tourist Spot 58,Wildlife,3.4,4.6,2.96,200,Morning
+Northern,Rajasthan,Jaipur,Tourist Spot 59,Temple,3.8,3.7,0.79,50,All
+Northern,Rajasthan,Jaipur,Tourist Spot 60,Wildlife,2.9,3.5,0.5,50,All
+Southern,Kerala,Kochi,Tourist Spot 61,Park,1.4,3.8,2.27,0,Evening
+Southern,Kerala,Kochi,Tourist Spot 62,Beach,1.8,3.7,0.87,100,Afternoon
+Southern,Kerala,Kochi,Tourist Spot 63,Beach,0.7,3.7,0.47,50,All
+Southern,Telangana,Hyderabad,Tourist Spot 64,Wildlife,3.5,3.9,1.54,200,All
+Southern,Karnataka,Bengaluru,Tourist Spot 65,Beach,4.8,4.1,1.57,100,All
+Northern,Rajasthan,Jaipur,Tourist Spot 66,Hill Station,3.9,4.2,2.3,20,All
+Western,Gujarat,Ahmedabad,Tourist Spot 67,Hill Station,4.1,4.6,2.06,0,All
+Southern,Tamil Nadu,Chennai,Tourist Spot 68,Temple,3.5,4.3,1.12,50,Evening
+Western,Maharashtra,Mumbai,Tourist Spot 69,Temple,1.7,4.5,1.73,0,Evening
+Southern,Telangana,Hyderabad,Tourist Spot 70,Fort,4.7,4.0,2.55,100,Evening
+Southern,Telangana,Hyderabad,Tourist Spot 71,Hill Station,3.0,4.3,2.33,0,All
+Western,Maharashtra,Mumbai,Tourist Spot 72,Beach,1.0,3.8,0.67,200,Morning
+Southern,Kerala,Kochi,Tourist Spot 73,Temple,4.8,4.4,0.57,0,Morning
+Southern,Karnataka,Bengaluru,Tourist Spot 74,Wildlife,3.7,3.7,0.84,50,Evening
+Southern,Tamil Nadu,Chennai,Tourist Spot 75,Lake,4.9,4.5,1.71,20,Evening
+Southern,Tamil Nadu,Chennai,Tourist Spot 76,Beach,1.3,4.3,0.79,50,Evening
+Western,Maharashtra,Mumbai,Tourist Spot 77,Fort,1.5,4.8,1.04,0,All
+Southern,Kerala,Kochi,Tourist Spot 78,Wildlife,4.7,4.6,2.41,50,Afternoon
+Northern,Rajasthan,Jaipur,Tourist Spot 79,Wildlife,3.8,3.6,0.66,0,Morning
+Southern,Telangana,Hyderabad,Tourist Spot 80,Fort,2.7,4.0,1.04,0,Afternoon
+Western,Gujarat,Ahmedabad,Tourist Spot 81,Hill Station,2.8,3.9,2.26,0,All
+Southern,Karnataka,Bengaluru,Tourist Spot 82,Beach,2.0,4.5,0.24,200,Morning
+Eastern,West Bengal,Kolkata,Tourist Spot 83,Museum,3.3,4.8,0.54,100,Evening
+Western,Gujarat,Ahmedabad,Tourist Spot 84,Park,2.2,4.7,1.39,20,Afternoon
+Northern,Delhi,Delhi,Tourist Spot 85,Wildlife,1.6,4.4,0.69,100,Afternoon
+Southern,Karnataka,Bengaluru,Tourist Spot 86,Park,2.2,4.5,0.76,200,Evening
+Northern,Rajasthan,Jaipur,Tourist Spot 87,Hill Station,3.8,4.5,2.42,50,Evening
+Northern,Rajasthan,Jaipur,Tourist Spot 88,Fort,2.2,4.6,2.91,200,Morning
+Southern,Karnataka,Bengaluru,Tourist Spot 89,Wildlife,3.3,4.3,0.98,200,Morning
+Western,Maharashtra,Pune,Tourist Spot 90,Park,1.6,3.9,1.92,20,All
+Southern,Kerala,Kochi,Tourist Spot 91,Park,1.2,3.7,1.32,200,Evening
+Eastern,West Bengal,Kolkata,Tourist Spot 92,Wildlife,3.8,4.5,2.49,20,Afternoon
+Western,Maharashtra,Pune,Tourist Spot 93,Museum,2.5,4.7,2.48,20,All
+Northern,Delhi,Delhi,Tourist Spot 94,Park,2.0,3.8,0.55,20,Afternoon
+Southern,Karnataka,Bengaluru,Tourist Spot 95,Hill Station,1.8,3.9,0.82,200,Afternoon
+Eastern,West Bengal,Kolkata,Tourist Spot 96,Hill Station,2.3,3.9,2.2,100,All
+Western,Maharashtra,Mumbai,Tourist Spot 97,Temple,2.1,4.6,2.99,20,Evening
+Southern,Karnataka,Bengaluru,Tourist Spot 98,Hill Station,2.0,4.2,2.35,50,Afternoon
+Western,Maharashtra,Mumbai,Tourist Spot 99,Beach,3.0,4.4,0.36,20,Afternoon
+Western,Maharashtra,Pune,Tourist Spot 100,Lake,5.0,4.3,0.74,100,All
+Western,Maharashtra,Mumbai,Tourist Spot 101,Fort,4.7,4.9,0.94,50,Morning
+Western,Maharashtra,Mumbai,Tourist Spot 102,Beach,2.3,4.5,2.12,20,All
+Southern,Tamil Nadu,Chennai,Tourist Spot 103,Lake,2.3,4.1,1.29,100,All
+Western,Maharashtra,Mumbai,Tourist Spot 104,Park,3.4,4.6,1.42,50,Evening
+Northern,Delhi,Delhi,Tourist Spot 105,Lake,3.6,4.6,2.07,200,Afternoon
+Southern,Telangana,Hyderabad,Tourist Spot 106,Lake,2.2,3.6,0.99,200,Evening
+Western,Gujarat,Ahmedabad,Tourist Spot 107,Beach,2.5,3.9,0.89,0,Afternoon
+Southern,Karnataka,Bengaluru,Tourist Spot 108,Park,2.0,3.5,0.53,0,All
+Eastern,West Bengal,Kolkata,Tourist Spot 109,Museum,4.5,3.5,0.57,20,Morning
+Southern,Tamil Nadu,Chennai,Tourist Spot 110,Museum,2.0,4.3,0.42,50,All
+Eastern,West Bengal,Kolkata,Tourist Spot 111,Museum,2.6,3.9,1.07,0,All
+Eastern,West Bengal,Kolkata,Tourist Spot 112,Beach,3.1,3.8,1.15,20,Afternoon
+Southern,Telangana,Hyderabad,Tourist Spot 113,Hill Station,1.8,3.8,0.06,50,Morning
+Southern,Kerala,Kochi,Tourist Spot 114,Wildlife,2.4,4.1,2.99,100,Evening
+Southern,Karnataka,Bengaluru,Tourist Spot 115,Wildlife,1.7,4.4,2.45,0,Morning
+Southern,Kerala,Kochi,Tourist Spot 116,Museum,3.5,4.3,0.23,100,Afternoon
+Western,Maharashtra,Pune,Tourist Spot 117,Wildlife,4.0,3.5,0.86,200,Morning
+Northern,Rajasthan,Jaipur,Tourist Spot 118,Temple,1.9,4.6,1.56,200,Morning
+Western,Gujarat,Ahmedabad,Tourist Spot 119,Wildlife,3.7,4.0,0.76,20,Morning
+Southern,Tamil Nadu,Chennai,Tourist Spot 120,Beach,3.6,4.2,2.37,200,Evening
+Southern,Tamil Nadu,Chennai,Tourist Spot 121,Wildlife,1.3,4.0,1.64,0,Afternoon
+Southern,Kerala,Kochi,Tourist Spot 122,Hill Station,3.8,3.6,2.05,200,Afternoon
+Northern,Rajasthan,Jaipur,Tourist Spot 123,Park,1.9,4.6,0.79,0,Afternoon
+Eastern,West Bengal,Kolkata,Tourist Spot 124,Lake,2.9,4.1,2.25,200,Afternoon
+Western,Maharashtra,Mumbai,Tourist Spot 125,Temple,1.2,4.1,0.14,200,Afternoon
+Southern,Tamil Nadu,Chennai,Tourist Spot 126,Park,4.1,3.7,0.88,200,All
+Southern,Telangana,Hyderabad,Tourist Spot 127,Beach,3.9,4.5,0.1,100,Afternoon
+Southern,Tamil Nadu,Chennai,Tourist Spot 128,Museum,2.6,4.8,2.03,200,Morning
+Southern,Telangana,Hyderabad,Tourist Spot 129,Lake,4.4,4.8,1.57,20,Afternoon
+Southern,Karnataka,Bengaluru,Tourist Spot 130,Beach,2.2,4.3,2.31,200,All
+Northern,Rajasthan,Jaipur,Tourist Spot 131,Fort,3.3,4.9,1.87,50,All
+Southern,Kerala,Kochi,Tourist Spot 132,Park,2.6,4.2,1.04,20,All
+Eastern,West Bengal,Kolkata,Tourist Spot 133,Beach,0.5,3.6,1.01,200,All
+Eastern,West Bengal,Kolkata,Tourist Spot 134,Temple,3.4,4.2,2.28,0,Morning
+Southern,Tamil Nadu,Chennai,Tourist Spot 135,Temple,1.3,3.7,2.14,50,Morning
+Southern,Karnataka,Bengaluru,Tourist Spot 136,Wildlife,3.5,4.6,2.17,0,Morning
+Western,Maharashtra,Mumbai,Tourist Spot 137,Wildlife,2.9,4.1,1.87,100,All
+Southern,Karnataka,Bengaluru,Tourist Spot 138,Wildlife,0.8,4.2,1.14,0,All
+Western,Gujarat,Ahmedabad,Tourist Spot 139,Lake,1.3,4.3,1.98,200,Morning
+Southern,Tamil Nadu,Chennai,Tourist Spot 140,Beach,1.5,3.6,2.01,0,Morning
+Southern,Tamil Nadu,Chennai,Tourist Spot 141,Lake,3.2,4.3,0.9,200,All
+Western,Maharashtra,Mumbai,Tourist Spot 142,Museum,4.3,4.8,1.85,200,Evening
+Eastern,West Bengal,Kolkata,Tourist Spot 143,Temple,3.8,4.2,0.87,50,All
+Northern,Rajasthan,Jaipur,Tourist Spot 144,Temple,1.9,4.3,2.13,50,Morning
+Southern,Kerala,Kochi,Tourist Spot 145,Temple,3.8,4.6,0.51,0,All
+Eastern,West Bengal,Kolkata,Tourist Spot 146,Museum,1.8,4.7,2.89,20,All
+Northern,Rajasthan,Jaipur,Tourist Spot 147,Wildlife,3.4,3.9,2.8,200,Afternoon
+Western,Maharashtra,Pune,Tourist Spot 148,Wildlife,1.3,4.0,0.86,50,Evening
+Western,Gujarat,Ahmedabad,Tourist Spot 149,Temple,2.8,4.6,2.19,50,All
+Western,Gujarat,Ahmedabad,Tourist Spot 150,Hill Station,1.2,4.3,1.71,20,Evening
+Southern,Telangana,Hyderabad,Tourist Spot 151,Park,3.3,4.8,1.94,200,Morning
+Western,Maharashtra,Mumbai,Tourist Spot 152,Fort,2.8,4.5,2.17,20,Evening
+Southern,Tamil Nadu,Chennai,Tourist Spot 153,Beach,0.9,4.5,0.98,100,Evening
+Southern,Telangana,Hyderabad,Tourist Spot 154,Wildlife,0.6,4.5,1.73,0,Morning
+Southern,Karnataka,Bengaluru,Tourist Spot 155,Park,3.1,3.7,0.45,200,Evening
+Southern,Karnataka,Bengaluru,Tourist Spot 156,Park,4.9,4.3,1.84,100,Morning
+Southern,Telangana,Hyderabad,Tourist Spot 157,Hill Station,3.5,3.9,1.81,0,Evening
+Western,Maharashtra,Mumbai,Tourist Spot 158,Park,1.0,3.6,2.24,20,All
+Northern,Delhi,Delhi,Tourist Spot 159,Wildlife,2.0,4.3,0.99,100,All
+Southern,Tamil Nadu,Chennai,Tourist Spot 160,Temple,3.5,3.9,2.51,20,Evening
+Western,Gujarat,Ahmedabad,Tourist Spot 161,Lake,4.6,3.7,1.06,20,All
+Western,Maharashtra,Mumbai,Tourist Spot 162,Fort,3.0,4.3,1.84,100,Evening
+Northern,Delhi,Delhi,Tourist Spot 163,Temple,2.4,3.5,0.58,100,Afternoon
+Southern,Telangana,Hyderabad,Tourist Spot 164,Museum,0.8,4.9,2.41,200,Afternoon
+Western,Gujarat,Ahmedabad,Tourist Spot 165,Beach,3.8,4.8,2.48,100,All
+Western,Maharashtra,Pune,Tourist Spot 166,Hill Station,3.5,3.8,1.61,100,All
+Southern,Karnataka,Bengaluru,Tourist Spot 167,Museum,4.7,4.5,0.88,20,Evening
+Western,Maharashtra,Pune,Tourist Spot 168,Museum,1.9,4.7,2.39,0,Morning
+Southern,Telangana,Hyderabad,Tourist Spot 169,Park,1.2,4.5,2.22,0,All
+Western,Gujarat,Ahmedabad,Tourist Spot 170,Park,4.2,4.8,0.88,200,Evening
+Western,Maharashtra,Mumbai,Tourist Spot 171,Wildlife,2.3,4.6,1.48,100,All
+Eastern,West Bengal,Kolkata,Tourist Spot 172,Lake,4.4,4.3,0.6,50,Morning
+Southern,Tamil Nadu,Chennai,Tourist Spot 173,Fort,4.0,4.6,1.15,20,Afternoon
+Northern,Delhi,Delhi,Tourist Spot 174,Beach,3.4,4.3,2.07,0,All
+Western,Maharashtra,Mumbai,Tourist Spot 175,Park,3.1,4.1,2.89,100,All
+Eastern,West Bengal,Kolkata,Tourist Spot 176,Museum,2.5,4.1,2.8,0,Evening
+Southern,Telangana,Hyderabad,Tourist Spot 177,Museum,2.5,4.4,0.44,100,Afternoon
+Eastern,West Bengal,Kolkata,Tourist Spot 178,Hill Station,4.1,3.7,0.53,50,Morning
+Southern,Kerala,Kochi,Tourist Spot 179,Fort,3.0,4.1,0.61,200,Afternoon
+Southern,Tamil Nadu,Chennai,Tourist Spot 180,Fort,3.8,4.3,2.69,20,Afternoon
+Southern,Kerala,Kochi,Tourist Spot 181,Fort,1.9,4.4,2.97,200,Afternoon
+Western,Gujarat,Ahmedabad,Tourist Spot 182,Fort,4.8,3.6,0.54,50,Afternoon
+Southern,Tamil Nadu,Chennai,Tourist Spot 183,Lake,3.1,3.9,1.96,0,Evening
+Southern,Kerala,Kochi,Tourist Spot 184,Hill Station,1.9,4.8,1.42,100,Evening
+Southern,Kerala,Kochi,Tourist Spot 185,Museum,1.8,4.1,2.74,100,Morning
+Northern,Delhi,Delhi,Tourist Spot 186,Hill Station,2.8,4.0,1.34,0,Morning
+Western,Maharashtra,Mumbai,Tourist Spot 187,Hill Station,2.8,3.6,0.66,200,Evening
+Western,Maharashtra,Mumbai,Tourist Spot 188,Temple,3.2,3.6,2.97,20,Evening
+Western,Gujarat,Ahmedabad,Tourist Spot 189,Lake,2.9,3.8,1.61,0,Afternoon
+Southern,Telangana,Hyderabad,Tourist Spot 190,Museum,1.4,4.7,2.25,20,All
+Southern,Telangana,Hyderabad,Tourist Spot 191,Lake,2.5,4.4,1.6,200,Afternoon
+Western,Gujarat,Ahmedabad,Tourist Spot 192,Park,3.7,3.6,0.35,200,All
+Western,Gujarat,Ahmedabad,Tourist Spot 193,Temple,1.3,4.6,2.25,20,Morning
+Western,Maharashtra,Pune,Tourist Spot 194,Beach,4.5,4.2,2.99,0,Evening
+Western,Maharashtra,Mumbai,Tourist Spot 195,Museum,3.4,4.3,0.78,200,Morning
+Western,Gujarat,Ahmedabad,Tourist Spot 196,Temple,3.6,4.0,1.98,100,All
+Northern,Delhi,Delhi,Tourist Spot 197,Fort,2.1,4.0,1.67,100,Evening
+Western,Gujarat,Ahmedabad,Tourist Spot 198,Lake,0.7,4.5,1.76,100,Afternoon
+Eastern,West Bengal,Kolkata,Tourist Spot 199,Temple,0.5,4.3,0.42,100,Afternoon
+Northern,Delhi,Delhi,Tourist Spot 200,Hill Station,3.9,4.8,2.05,100,Afternoon
