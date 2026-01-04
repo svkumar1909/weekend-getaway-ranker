@@ -1,0 +1,111 @@
+import pandas as pd
+import math
+
+
+def calculate_distance_km(lat1, lon1, lat2, lon2):
+    """
+    Calculates distance between two locations using Haversine formula.
+    Distance is returned in kilometers.
+    """
+    radius = 6371  # Earth radius in km
+
+    d_lat = math.radians(lat2 - lat1)
+    d_lon = math.radians(lon2 - lon1)
+
+    a = (
+        math.sin(d_lat / 2) ** 2
+        + math.cos(math.radians(lat1))
+        * math.cos(math.radians(lat2))
+        * math.sin(d_lon / 2) ** 2
+    )
+
+    return 2 * radius * math.asin(math.sqrt(a))
+
+
+class GetawayRecommender:
+    def __init__(self, file_path):
+        self.df = pd.read_csv(file_path)
+
+        # Normalize column names (datasets are usually messy)
+        self.df.columns = (
+            self.df.columns.str.strip()
+            .str.lower()
+            .str.replace(" ", "_")
+        )
+
+        # Drop rows with missing critical values
+        self.df = self.df.dropna(
+            subset=["city", "latitude", "longitude", "google_review_rating"]
+        )
+
+    def recommend_places(self, source_city, top_n=5):
+        source_city = source_city.lower()
+
+        source_row = self.df[self.df["city"].str.lower() == source_city]
+
+        if source_row.empty:
+            return f"No data found for source city: {source_city}"
+
+        src_lat = source_row.iloc[0]["latitude"]
+        src_lon = source_row.iloc[0]["longitude"]
+
+        data = self.df.copy()
+
+        # Calculate distance from source city
+        data["distance_km"] = data.apply(
+            lambda row: calculate_distance_km(
+                src_lat, src_lon, row["latitude"], row["longitude"]
+            ),
+            axis=1
+        )
+
+        # Weekend constraint: within 300 km
+        data = data[data["distance_km"] <= 300]
+
+        if data.empty:
+            return "No suitable weekend destinations found nearby."
+
+        # ----------- SCORING LOGIC -----------
+
+        data["rating_score"] = (
+            data["google_review_rating"] / data["google_review_rating"].max()
+        )
+
+        data["popularity_score"] = (
+            data["number_of_google_review_in_lakhs"]
+            / data["number_of_google_review_in_lakhs"].max()
+        )
+
+        # Distance is important, but less once under 300 km
+        data["distance_score"] = 1 - (
+            data["distance_km"] / data["distance_km"].max()
+        )
+
+        # Final score (weights tuned manually)
+        data["final_score"] = (
+            0.45 * data["rating_score"]
+            + 0.35 * data["popularity_score"]
+            + 0.20 * data["distance_score"]
+        )
+
+        ranked = data.sort_values("final_score", ascending=False)
+
+        return ranked[
+            [
+                "name",
+                "city",
+                "type",
+                "distance_km",
+                "google_review_rating",
+                "number_of_google_review_in_lakhs",
+                "final_score"
+            ]
+        ].head(top_n)
+
+
+if __name__ == "__main__":
+    recommender = GetawayRecommender("travel_data.csv")
+
+    user_city = input("Enter your source city: ")
+    print(f"\nTop weekend getaways from {user_city.title()}:\n")
+    print(recommender.recommend_places(user_city))
